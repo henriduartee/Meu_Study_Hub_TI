@@ -1,22 +1,20 @@
-# Meu Study Hub - TI
 
-## Sobre o Projeto
+# Pablo Henrique Lima Duarte
 
-Este repositório contém meus materiais, anotações, atividades e projetos desenvolvidos ao longo do curso de Ciência da Computação no CEUB.
+- **Curso:** Ciência da Computação - 2º semestre
+- **Instituição:** CEUB (UNICEUB)
 
-## Estrutura
+## Sobre mim
 
-- **01_Apresentacao_e_Perfil/** - Minha apresentação pessoal e contatos
-- **02_Disciplinas_Atuais/** - Materiais das disciplinas do semestre atual
-  - Bootcamp I
-  - Álgebra Linear e Geometria Analítica
-  - Desenvolvimento de Interfaces
-  - Engenharia de Software
-  - Redes de Computadores
-- **03_Projetos_e_Certificados/** - Projetos e certificações futuras
+Sou entusiasta da tecnologia, curioso por arte, aficionado por jogos e cultura pop. Ainda não pisei no território profissional, mas estou à caça de oportunidades em T.I.
+
+## Habilidades
+
+- Paciência e persistência
+- Observação de detalhes
+- Senso estético
 
 ## Contato
 
 - **E-mail:** pablohenriquelimaduarte@gmail.com
 - **LinkedIn:** https://br.linkedin.com/in/pablo-henrique-lima
-- **GitHub:** https://github.com/henriduartee
